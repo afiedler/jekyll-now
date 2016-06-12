@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 ---
 ## Coconut Flour Banana Bread
-|Prep Time| 10 minutes|
-|Cook Time| 45 minutes|
-|Yield| 1 loaf (8-10 slices)|
+Prep Time: 10 minutes<br>
+Cook Time; 45 minutes<br>
+Yield: 1 loaf (8-10 slices)
 
 
 Ingredients:
